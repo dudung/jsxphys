@@ -45,7 +45,23 @@ function crossover() {
 }
 
 
-// Get interpretation of position from chromosome
-function getPos() {
+// Get interpretation of position and class from chromosome
+function getValues() {
 	var p = arguments[0];
+	
+	var xs = p.slice(0, 3);
+	var ys = p.slice(3, 6);
+	var cs = p.slice(6);
+	
+	var x = -1;
+	var y = -1;
+	var c = -1;
+	
+	/*
+	x = xs;
+	y = ys;
+	c = cx;
+	*/
+	
+	return [x, y, c];
 }

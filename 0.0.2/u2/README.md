@@ -276,7 +276,30 @@ Setiap kali mengubah berkas kedua, jangan lupa berkas disimpan, lalu pindah ke G
 	0010111
 	1101111
 
-a. Buat suatu fungsi 
+a. Buat suatu fungsi yang dapat mengekstrak informasi dari masing-masing kromosom, bahwa tiga digit pertama adalah posisi ``x``, tiga digit kedua adalah posisi ``y``, dan satu digit terakhir adalah kelasnya (``0`` atau ``1``). Bentuk fungsinya dapat seperti
+
+	// Get interpretation of position and class from chromosome
+	function getValues() {
+		var p = arguments[0];
+		
+		var xs = p.slice(0, 3);
+		var ys = p.slice(3, 6);
+		var cs = p.slice(6);
+		
+		var x = -1;
+		var y = -1;
+		var c = -1;
+		
+		/*
+		x = xs;
+		y = ys;
+		c = cx;
+		*/
+		
+		return [x, y, c];
+	}
+
+dengan bagian yang merupakan komentar perlu diubah. Posisi dengan tiga digit biner tersebut menggambarkan angka 0-7.
 
 
 ## Soal 5
