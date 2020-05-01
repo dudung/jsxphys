@@ -242,8 +242,8 @@ dan
 	
 	// Define main function
 	function main() {
-		var p1 = "10101111";
-		var p2 = "11110101";
+		var p1 = "0010110";
+		var p2 = "1111111";
 		
 		var n = 4;
 		[c1, c2] = crossover(p1, p2, n);
@@ -269,13 +269,14 @@ dan
 
 yang dapat diunduh dari bekars [ga.html](https://raw.githubusercontent.com/dudung/jsxphys/master/0.0.2/u2/ga.html) dan [ga.js](https://raw.githubusercontent.com/dudung/jsxphys/master/0.0.2/u2/ga.js) pada halaman ini. Simpan kedua berkas dalam folder yang sama dan jalankan berkas pertama. Berkas kedua dapat dibuka dengan menggunakan [Notepad++](https://notepad-plus-plus.org/downloads/) atau penyunting teks polos lainnya.
 	
-Setiap kali mengubah berkas kedua, jangan lupa berkas disimpan, lalu pindah ke Google Chrome dan di-refresh dengan F5 atau CTRL+R. Hasilnya akan tampak pada bagian bawah browser (yang telah dibuka dengan CTRL+SHIFT+J sebelumnya). Contoh yang diberikan adalah bentuk paling sederhana dari operasi crossover dari dua kromosom induk ``p1`` dan ``p2`` yang menghasilkan anak ``c1`` dan ``c2``. Prose crossover dilakukan pada posisi gen ``n < 4``. 
+Setiap kali mengubah berkas kedua, jangan lupa berkas disimpan, lalu pindah ke Google Chrome dan di-refresh dengan F5 atau CTRL+R. Hasilnya akan tampak pada bagian bawah browser (yang telah dibuka dengan CTRL+SHIFT+J sebelumnya). Contoh yang diberikan adalah bentuk paling sederhana dari operasi crossover dari dua kromosom induk ``p1`` dan ``p2`` yang menghasilkan anak ``c1`` dan ``c2``. Prose crossover dilakukan pada posisi gen ``n < 4``. Ingat pada JS indeks larik dimulai dari 0. 
 
-	10101111
-	11110101
-	10100101
-	11111111
+	0010110
+	1111111
+	0010111
+	1101111
 
+a. Buat suatu fungsi 
 
 
 ## Soal 5
