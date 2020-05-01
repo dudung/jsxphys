@@ -50,16 +50,16 @@ Jawaban berikut akan lebih jelas dilihat dalam [editor](https://rawcdn.githack.c
 ### d
 Kode program berikut
 
-	```C++
-	/*
-		NamaProgram.cpp
-		
-		Menghitung sesuatu
-	*/
+```C++
+/*
+	NamaProgram.cpp
 	
-	int main(int argc, char *argv[]) {
-	}
-	```
+	Menghitung sesuatu
+*/
+
+int main(int argc, char *argv[]) {
+}
+```
 
 ```ruby
 require 'redcarpet'
