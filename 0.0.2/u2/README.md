@@ -328,7 +328,7 @@ atau lainnya dengan menggunakan template fungsi di atas.
 	
 c. Gunakan fungsi fitnes tersebut untuk menyeleksi kromosom dari populasi.
 
-d. Sampaikan dua kromosom dengan nilai tertinggi yang mungkin diperoleh setelah beberapa kali iterasi.
+d. Sampaikan dua kromosom dengan nilai tertinggi yang mungkin diperoleh setelah beberapa kali iterasi. Sajikan kode dan hasil tempilan koromosomnya diikuti dengan nilai fitnessnya.
 
 ## Soal 5
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
