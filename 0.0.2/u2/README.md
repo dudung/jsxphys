@@ -212,6 +212,8 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 ## Soal 4
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
+	Akses laman https://jsconsole.com/ untuk mendapatkan JavaScript (JS) console secara daring atau bila menggunakan Google Chrome, tekan CTRL+SHIFT+J untuk membuknya. Selanjutnya perhatikan kode berikut.
+	
 	
 
 ## Soal 5
