@@ -2,7 +2,7 @@
 Mata kuliah Fisika komputasi berkode FI3201 untuk kelas 01 akan melangsungkan U2 dengan memanfaatkan format Markdown dalam penyampaian jawabannya dan diarsipan di [jsxPhys versi 0.02](https://github.com/dudung/jsxphys/tree/master/0.0.2).
 
 
-## Persiapan dan pelaksanaan ujian kelompok
+# Persiapan dan pelaksanaan ujian kelompok
 
 1. Pelajari Markdown markup language. Jawaban U2 akan dituliskan dalam format Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -21,10 +21,10 @@ Mata kuliah Fisika komputasi berkode FI3201 untuk kelas 01 akan melangsungkan U2
 8. Batas waktu pengumpulan hasil ujian adalah pukul 23.59 pada hari Jumat, 1 Mei 2020.
 
 
-## Soal
+# Soal
 Terdapat lima buah soal yang akan dikerjakan secara per kolompok dan pemberian soal diberikan berangsur-angsur.
 
-### Soal 1
+## Soal 1
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	Terdapat sistem bandul yang terdiri dari titik pusat koordinat $O(0, 0)$,
@@ -73,7 +73,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	bagaimanakah bentuk Persamaan \eqref{eqn:nlode-x} dan \eqref{eqn:nlode-y}?
 	Jelaskan maksud suku-sukunya.
 
-### Soal 2
+## Soal 2
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	Dengan menggunakan sistem bandul dalam soal sebelumnya dapat pula dipilih
@@ -91,26 +91,37 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	
 	\begin{equation}
 	\label{eqn:nlode-r}
-	\dot{\theta}^2 + \left( \frac{g}{l} \right) \cos \theta = \left( \frac{T}{lm} \right).
+	\dot{\theta}^2 + \left( \frac{g}{l} \right) \cos \theta = \left( \frac{T}{lm}
+	\right).
 	\end{equation}
 	
 	b. Carilah solusi analitik $\theta$ dan $T$ untuk nilai $\theta$ kecil.
 	<br /><br />
 	
-	c. Carilah solusi numerik dengan algoritma Euler untuk sembarang nilai $\theta$.
+	c. Carilah solusi numerik dengan algoritma Euler untuk sembarang nilai
+	$\theta$.
 	<br /><br />
 	
 	d. Buatlah program sederhana di http://cpp.sh/ untuk menghasilkan angka-angka
 	dari keduanya untuk sudut kecil dan sudut besar. Program harus siap untuk
 	dijalankan.
 
-### Soal 3
+## Soal 3
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
-	Gunakan aplikasi pada https://playground.tensorflow.org/ untuk membahas data-data yang diberikan dalam tabel-tabel berikut ini. Arsitektur jaringan saraf tiruan (JST) dinyatakan dengan notasi $N_1$-$N_2$-$N_3$, di mana $N_1$ adalah jumlah neuron lapisan masukan, $N_2$ adalah jumlah neuron dalam lapisan tersembunyi (hidden layer), dan $N_3$ adalah jumlah neuron pada lapisan keluaran. Bila digunakan lebih dari satu lapisan tersembunyi, nyatakan dalam notasi berpola $N_1$-$N_2$- .. - $N_{n+2}$ dengan $n$ adalah jumlah layer tersembunyi.
+	Gunakan aplikasi pada https://playground.tensorflow.org/ untuk membahas
+	data-data yang diberikan dalam tabel-tabel berikut ini. Arsitektur jaringan
+	saraf tiruan (JST) dinyatakan dengan notasi $N_1$-$N_2$-$N_3$, di mana $N_1$
+	adalah jumlah neuron lapisan masukan, $N_2$ adalah jumlah neuron dalam
+	lapisan tersembunyi (hidden layer), dan $N_3$ adalah jumlah neuron pada
+	lapisan keluaran. Bila digunakan lebih dari satu lapisan tersembunyi,
+	nyatakan dalam notasi berpola $N_1$-$N_2$- .. - $N_{n+2}$ dengan $n$ adalah
+	jumlah layer tersembunyi.
 	<br /><br />
 	
-	a. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-1 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+	a. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-1 dapat
+	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
+	Anda lakukan.
 	
 	TAB tab:data-1 Data 1
 	x | y | kelas
@@ -136,7 +147,9 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	0.544 | 0.684 | 1
 	TAB
 	
-	b. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-2 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+	b. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-2 dapat
+	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
+	Anda lakukan.
 	
 	TAB tab:data-2 Data 2
 	x | y | kelas
@@ -162,26 +175,33 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	0.062 | 0.641 | 1
 	TAB
 
-	c. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-3 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+	c. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-3 dapat
+	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
+	Anda lakukan.
 	
 	TAB tab:data-3 Data 3
 	x | y | kelas
 	TAB
 
-	d. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-4 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+	d. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-4 dapat
+	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
+	Anda lakukan.
 
 	TAB tab:data-4 Data 4
 	x | y | kelas
 	TAB
 	
-	e. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan untuk memisahkan dengan baik data-data dalam Tabel REF tab:data-1 - REF tab:data-4 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan secara visualnya.
+	e. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan
+	untuk memisahkan dengan baik data-data dalam Tabel REF tab:data-1 -
+	REF tab:data-4 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan
+	secara visualnya.
 
-### Soal 4
+## Soal 4
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	..
 
-### Soal 5
+## Soal 5
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	..
