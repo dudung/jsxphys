@@ -61,6 +61,12 @@ Kode program berikut
 	}
 	```
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 dapat dijalankan secara daring menggunakan [http://cpp.sh/](http://cpp.sh/) atau aplikasi lainnya.
 
 ## Soal 3 | Jaringan saraf tiruan dengan aplikasi TensorFlow
