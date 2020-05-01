@@ -61,12 +61,6 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
 dapat dijalankan secara daring menggunakan [http://cpp.sh/](http://cpp.sh/) atau aplikasi lainnya.
 
 ## Soal 3 | Jaringan saraf tiruan dengan aplikasi TensorFlow
@@ -85,26 +79,28 @@ dapat dijalankan secara daring menggunakan [http://cpp.sh/](http://cpp.sh/) atau
 ### a
 Fungsi yang dimaksud adalah
 
-	// Get interpretation of position and group from chromosome
-	function getValues() {
-		var p = arguments[0];
-		
-		var xs = p.slice(0, 3);
-		var ys = p.slice(3, 6);
-		var gs = p.slice(6);
-		
-		var x = -1;
-		var y = -1;
-		var g = -1;
-		
-		/*
-		x = xs;
-		y = ys;
-		g = gs;
-		*/
-		
-		return [x, y, g];
-	}
+```JavaScript
+// Get interpretation of position and group from chromosome
+function getValues() {
+	var p = arguments[0];
+	
+	var xs = p.slice(0, 3);
+	var ys = p.slice(3, 6);
+	var gs = p.slice(6);
+	
+	var x = -1;
+	var y = -1;
+	var g = -1;
+	
+	/*
+	x = xs;
+	y = ys;
+	g = gs;
+	*/
+	
+	return [x, y, g];
+}
+```
 
 dengan .. (penjelasannya).
 
