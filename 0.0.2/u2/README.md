@@ -307,7 +307,9 @@ b. Buatlah suatu fungsi fitness yang dalam bentuk
 	f(x, y) = \frac{1}{1 + \sqrt{(x - x_o)^2 + (y - y_o)^2}}
 	\end{equation}
 	
-	yang akan bernilai maksimum bila posisi kromosom berada pada $(x_o, y_o)$. Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan persamaan tersebut bila diperlukan.
+	yang akan bernilai maksimum bila posisi kromosom berada pada $(x_o, y_o)$.
+	
+Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan persamaan di atas tersebut bila diperlukan.
 	
 Misalnya dapat berbentuk
 
