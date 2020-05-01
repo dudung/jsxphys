@@ -181,19 +181,31 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	
 	TAB tab:data-3 Data 3
 	x | y | kelas
+	0.624 | 0.355 | 0
+	0.159 | 0.958 | 1
+	0.774 | 0.905 | 1
+	0.620 | 0.434 | 0
+	0.875 | 0.590 | 1
+	0.479 | 0.107 | 1
+	0.024 | 0.927 | 1
+	0.661 | 0.246 | 1
+	0.600 | 0.320 | 0
+	0.490 | 0.417 | 0
+	0.481 | 0.582 | 0
+	0.684 | 0.514 | 0
+	0.291 | 0.606 | 0
+	0.222 | 0.659 | 1
+	0.624 | 0.309 | 0
+	0.596 | 0.246 | 1
+	0.201 | 0.795 | 1
+	0.327 | 0.082 | 1
+	0.196 | 0.912 | 1
+	0.619 | 0.563 | 0
 	TAB
 
-	d. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-4 dapat
-	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
-	Anda lakukan.
-
-	TAB tab:data-4 Data 4
-	x | y | kelas
-	TAB
-	
-	e. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan
+	d. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan
 	untuk memisahkan dengan baik data-data dalam Tabel REF tab:data-1 -
-	REF tab:data-4 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan
+	REF tab:data-3 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan
 	secara visualnya.
 
 ## Soal 4
