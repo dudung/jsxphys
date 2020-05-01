@@ -267,7 +267,7 @@ dan
 		return [c1, c2];
 	}
 
-yang dapat diunduh dari bekars ga.html dan ga.js pada halaman ini.
+yang dapat diunduh dari bekars [ga.html](https://raw.githubusercontent.com/dudung/jsxphys/master/0.0.2/u2/ga.html) dan [ga.js](https://raw.githubusercontent.com/dudung/jsxphys/master/0.0.2/u2/ga.js) pada halaman ini.
 	
 	
 
