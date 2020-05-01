@@ -59,7 +59,7 @@ Kode program berikut
 	
 	int main(int argc, char *argv[]) {
 	}
-	````
+	```
 
 dapat dijalankan secara daring menggunakan [http://cpp.sh/](http://cpp.sh/) atau aplikasi lainnya.
 
