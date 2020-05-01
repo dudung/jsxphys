@@ -210,20 +210,17 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	sederhana? Jelaskan dengan singkat.
 
 ## Soal 4
-Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
+Bila menggunakan Google Chrome, tekan CTRL+SHIFT+J untuk membuka JavaScript (JS) console. Selanjutnya perhatikan kode berikut
 
-	Bila menggunakan Google Chrome, tekan CTRL+SHIFT+J untuk membuka JavaScript
-	(JS) console. Selanjutnya perhatikan kode berikut
-	
 	<!doctype html>
 	<head>
 	</head>
 	<body>
 	<script src="ga.js"></script>
 	</body>
-	
-	dan
-	
+
+dan
+
 	/*
 		ga.js
 		Simple genetic algoritm (GA)
@@ -237,12 +234,12 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 		Refrences
 		1. https://jsconsole.com/ [20200501]
 	*/
-
-
+	
+	
 	// Execute main funtion
 	main();
-
-
+	
+	
 	// Define main function
 	function main() {
 		var p1 = "10101111";
@@ -256,8 +253,8 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 		console.log(c1);
 		console.log(c2);
 	}
-
-
+	
+	
 	// Crossover two chromosome
 	function crossover() {
 		var p1 = arguments[0];
@@ -269,7 +266,8 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 		
 		return [c1, c2];
 	}
-	yang dapat diunduh dari bekars ga.html dan ga.js pada halaman ini.
+
+yang dapat diunduh dari bekars ga.html dan ga.js pada halaman ini.
 	
 	
 
