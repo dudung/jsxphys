@@ -345,3 +345,5 @@ Buatlah suatu kajian sederhana yang mengintegrasikan konsep-konsep fisika komput
 # Format
 Ujian dikumpulkan dengan menggunakan format Markdown markup language dan tersimpan dalam satu berkas bernama README.md yang akan tersimpan dalam masing-masing folder sesuai dengan nomor kelompoknya. Penomoran fleksibel. Bila ada yang memilih nomor yang sama, akan digeser ke nomor yang belum digunakan.
 
+Contoh berkas [README.md](0/README.md)
+
