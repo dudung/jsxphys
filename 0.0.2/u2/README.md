@@ -333,7 +333,13 @@ c. Gunakan fungsi fitness tersebut untuk menyeleksi kromosom dari populasi.
 d. Sampaikan dua kromosom dengan nilai tertinggi yang mungkin diperoleh setelah beberapa kali iterasi. Sajikan kode dan hasil tempilan koromosomnya diikuti dengan nilai fitnessnya.
 
 ## Soal 5 | Research based learning
-Buatlah suatu kajian sederhana yang mengintegrasikan konsep-konsep fisika komputasi yang telah dipelajari. Tidak perlu sampai perhitungan akhir akan tetapi dapat menceritakan apa tujuannya, bagaimana perumusan masalahnya, usulan metode yang digunakan, perkiraan hasil yang diperoleh dengan analisasnya, dan beberapa referensi terkait.
+Buatlah suatu kajian sederhana yang mengintegrasikan konsep-konsep fisika komputasi yang telah dipelajari. Tidak perlu sampai perhitungan akhir akan tetapi dapat menceritakan 
+
++ apa tujuannya,
++ bagaimana perumusan masalahnya,
++ usulan metode yang digunakan,
++ perkiraan hasil yang diperoleh dengan analisasnya, dan 
++ beberapa referensi terkait.
 
 
 # Format

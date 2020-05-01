@@ -1,7 +1,7 @@
 # Ujian kelompok 0
 
 ## Anggota
-Terdapat enam orang anggota pada kelompok 0 ini.
+Terdapat enam orang anggota pada kelompok 0 ini dengan fraksi kontribusinya pada pengerjaan tiap soal dapat dilihat dalam tabel berikut.
 
 | NIM      | Nama                  | Peran pada soal (dan fraksi kontribusinya)   |
 |----------|-----------------------|----------------------------------------------|
@@ -15,3 +15,15 @@ Terdapat enam orang anggota pada kelompok 0 ini.
 |          |                       |                                              |
 |          | Total                 | 1 (1.00) 2 (1.00) 3 (1.00) 4 (1.00) 5 (1.00) |
 
+
+# Jawaban
+
+## Soal 1 | Sistem bandul dengan sistem koordinat kartesian
+
+## Soal 2 | Bandul dengan sistem koordinat polar
+
+## Soal 3 | Jaringan saraf tiruan dengan aplikasi TensorFlow
+
+## Soal 4 | Algoritma genetik sederhana dengan JS
+
+## Soal 5 | Research based learning
