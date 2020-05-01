@@ -18,7 +18,7 @@ Mata kuliah Fisika komputasi berkode FI3201 untuk kelas 01 akan melangsungkan U2
 
 7. Ujian dikumpulkan dalam sebuah berkas README.md yang dicantumkan pada halaman Github salah seorang wakil kelompok dan link disampaikan secara pribadi lewat WA.
 
-8. Batas waktu ujian adalah pukul 23.59 pada hari Jumat, 1 Mei 2020.
+8. Batas waktu pengumpulan hasil ujian adalah pukul 23.59 pada hari Jumat, 1 Mei 2020.
 
 
 ## Soal
