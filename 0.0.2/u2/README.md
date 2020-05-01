@@ -107,9 +107,74 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 ### Soal 3
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
-	Gunakan aplikasi pada https://playground.tensorflow.org/ untuk membahas data-data yang diberikan.
+	Gunakan aplikasi pada https://playground.tensorflow.org/ untuk membahas data-data yang diberikan dalam tabel-tabel berikut ini. Arsitektur jaringan saraf tiruan (JST) dinyatakan dengan notasi $N_1$-$N_2$-$N_3$, di mana $N_1$ adalah jumlah neuron lapisan masukan, $N_2$ adalah jumlah neuron dalam lapisan tersembunyi (hidden layer), dan $N_3$ adalah jumlah neuron pada lapisan keluaran. Bila digunakan lebih dari satu lapisan tersembunyi, nyatakan dalam notasi berpola $N_1$-$N_2$- .. - $N_{n+2}$ dengan $n$ adalah jumlah layer tersembunyi.
+	<br /><br />
 	
+	a. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-1 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
 	
+	TAB tab:data-1 Data 1
+	x | y | kelas
+	0.020 | 0.176 | 0
+	0.274 | 0.498 | 0
+	0.341 | 0.591 | 0
+	0.273 | 0.612 | 0
+	0.482 | 0.490 | 0
+	0.047 | 0.329 | 0
+	0.499 | 0.796 | 0
+	0.201 | 0.794 | 0
+	0.237 | 0.161 | 0
+	0.481 | 0.314 | 0
+	0.739 | 0.654 | 1
+	0.942 | 0.663 | 1
+	0.785 | 0.358 | 1
+	0.584 | 0.787 | 1
+	0.838 | 0.412 | 1
+	0.818 | 0.252 | 1
+	0.556 | 0.339 | 1
+	0.854 | 0.425 | 1
+	0.937 | 0.659 | 1
+	0.544 | 0.684 | 1
+	TAB
+	
+	b. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-2 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+	
+	TAB tab:data-2 Data 2
+	x | y | kelas
+	0.903 | 0.408 | 0
+	0.492 | 0.714 | 1
+	0.556 | 0.019 | 0
+	0.779 | 0.202 | 0
+	0.691 | 0.081 | 0
+	0.497 | 0.272 | 0
+	0.131 | 0.728 | 1
+	0.271 | 0.821 | 1
+	0.586 | 0.540 | 0
+	0.264 | 0.297 | 1
+	0.520 | 0.400 | 0
+	0.155 | 0.020 | 0
+	0.538 | 0.729 | 1
+	0.663 | 0.598 | 0
+	0.016 | 0.149 | 1
+	0.247 | 0.270 | 1
+	0.560 | 0.618 | 1
+	0.235 | 0.036 | 0
+	0.179 | 0.203 | 1
+	0.062 | 0.641 | 1
+	TAB
+
+	c. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-3 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+	
+	TAB tab:data-3 Data 3
+	x | y | kelas
+	TAB
+
+	d. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-4 dapat terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang Anda lakukan.
+
+	TAB tab:data-4 Data 4
+	x | y | kelas
+	TAB
+	
+	e. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan untuk memisahkan dengan baik data-data dalam Tabel REF tab:data-1 - REF tab:data-4 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan secara visualnya.
 
 ### Soal 4
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
