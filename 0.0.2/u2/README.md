@@ -1,5 +1,5 @@
 # Ujian FI3201-01 Fisika Komputasi
-Mata kuliah Fisika komputasi berkode FI3201 untuk kelas 01 akan melangsungkan U2 dengan memanfaatkan format Markdown dalam penyampaian jawabannya dan diarsipan di [jsxPhys versi 0.02](https://github.com/dudung/jsxphys/tree/master/0.0.2).
+Mata kuliah Fisika komputasi berkode FI3201 untuk kelas 01 akan melangsungkan U2 dengan memanfaatkan format Markdown dalam penyampaian jawabannya dan diarsipan di [jsxPhys versi 0.02](https://github.com/dudung/jsxphys/tree/master/0.0.2) ini.
 
 
 # Persiapan dan pelaksanaan ujian kelompok
@@ -121,7 +121,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	
 	a. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-1 dapat
 	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
-	Anda lakukan.
+	Anda lakukan. Gunakan arsitektur JST yang paling sederhana.
 	
 	TAB tab:data-1 Data 1
 	x | y | kelas
@@ -149,7 +149,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	
 	b. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-2 dapat
 	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
-	Anda lakukan.
+	Anda lakukan. Gunakan arsitektur JST yang paling sederhana.
 	
 	TAB tab:data-2 Data 2
 	x | y | kelas
@@ -177,7 +177,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 
 	c. Tentukan notasi arsitektur JST agar dapat dalam Tabel REF tab:data-3 dapat
 	terklasifikasikan dengan baik dalam dua kelas. Jelaskan langkah-langkah yang
-	Anda lakukan.
+	Anda lakukan. Gunakan arsitektur JST yang paling sederhana.
 	
 	TAB tab:data-3 Data 3
 	x | y | kelas
@@ -206,7 +206,8 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	d. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan
 	untuk memisahkan dengan baik data-data dalam Tabel REF tab:data-1 -
 	 REF tab:data-3 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan
-	secara visualnya.
+	secara visualnya. Mengapa perlu dibatasi arsitektur JST yang paling
+	sederhana? Jelaskan dengan singkat.
 
 ## Soal 4
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
