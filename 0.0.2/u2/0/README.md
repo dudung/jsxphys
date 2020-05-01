@@ -20,7 +20,7 @@ Terdapat enam orang anggota pada kelompok 0 ini dengan fraksi kontribusinya pada
 
 ## Soal 1 | Sistem bandul dengan sistem koordinat kartesian
 
-## a
+### a
 Jawaban berikut akan lebih jelas dilihat dalam [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html).
 
 	Hukum Newton I arah $x$ memberikan
@@ -32,7 +32,7 @@ Jawaban berikut akan lebih jelas dilihat dalam [editor](https://rawcdn.githack.c
 
 	dan pada arah $y$ ..
 
-## b
+### b
 
 ## c
 
