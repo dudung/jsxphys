@@ -311,7 +311,7 @@ b. Buatlah suatu fungsi fitness yang dalam bentuk
 	
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan persamaan di atas tersebut bila diperlukan.
 	
-Misalnya dapat berbentuk
+Fungsi fitnees, misalnya, dapat berbentuk
 
 	// Create fitness function
 	function fitness() {
@@ -327,7 +327,7 @@ Misalnya dapat berbentuk
 	}
 	
 atau lainnya dengan menggunakan template fungsi di atas.
-	
+
 c. Gunakan fungsi fitnes tersebut untuk menyeleksi kromosom dari populasi.
 
 d. Sampaikan dua kromosom dengan nilai tertinggi yang mungkin diperoleh setelah beberapa kali iterasi. Sajikan kode dan hasil tempilan koromosomnya diikuti dengan nilai fitnessnya.
