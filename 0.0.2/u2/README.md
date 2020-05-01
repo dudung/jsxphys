@@ -56,8 +56,8 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 
 	\begin{equation}
 	\label{eqn:nlode-y}
-	\ddot{y} + \left( \frac{3 \pi \eta D}{m} \right) \dot{y} - \left(
-	\frac{1}{l^2} \right) (\dot{x}^2 + \dot{y}^2) y + \left( \frac{g}{l^2}
+	\ddot{y} + \left( \frac{3 \pi \eta D}{m} \right) \dot{y} + \left(
+	\frac{1}{l^2} \right) (\dot{x}^2 + \dot{y}^2) y - \left( \frac{g}{l^2}
 	\right) y^2 = -g.
 	\end{equation}
 
