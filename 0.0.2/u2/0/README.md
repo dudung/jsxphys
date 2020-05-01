@@ -5,6 +5,7 @@ Terdapat enam orang anggota pada kelompok 0 ini.
 
 | NIM      | Nama                  | Peran pada soal (dan fraksi kontribusinya)   |
 |----------|-----------------------|----------------------------------------------|
+|          |                       |                                              |
 | 10250045 | Panglima Einstein III | 1 (0.10) 2 (0.00) 3 (0.20) 4 (0.30) 5 (0.16) |
 | 10250098 | Teman Maxwell Jr.     | 1 (0.20) 2 (0.00) 3 (0.20) 4 (0.30) 5 (0.17) |
 | 10250123 | Densitas Kanonika     | 1 (0.10) 2 (0.00) 3 (0.20) 4 (0.30) 5 (0.16) |
