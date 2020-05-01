@@ -269,6 +269,7 @@ dan
 
 yang dapat diunduh dari bekars [ga.html](https://raw.githubusercontent.com/dudung/jsxphys/master/0.0.2/u2/ga.html) dan [ga.js](https://raw.githubusercontent.com/dudung/jsxphys/master/0.0.2/u2/ga.js) pada halaman ini. Simpan kedua berkas dalam folder yang sama dan jalankan berkas pertama. Berkas kedua dapat dibuka dengan menggunakan [Notepad++](https://notepad-plus-plus.org/downloads/) atau penyunting teks polos lainnya.
 	
+Setiap kali mengubah berkas kedua, jangan lupa berkas disimpan, lalu pindah ke Google Chrome dan di-refresh dengan F5 atau CTRL+R. Hasilnya akan tampak pada bagian bawah browser (yang telah dibuka dengan CTRL+SHIFT+J sebelumnya). Contoh yang diberikan adalah bentuk paling sederhana dari operasi crossover dari dua kromosom induk ``p1`` dan ``p2`` yang menghasilkan anak ``c1`` dan ``c2``. Prose crossover dilakukan pada posisi gen ``n < 4``. 
 	
 
 ## Soal 5
