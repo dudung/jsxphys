@@ -309,7 +309,26 @@ b. Buatlah suatu fungsi fitness yang dalam bentuk
 	
 	yang akan bernilai maksimum bila posisi kromosom berada pada $(x_o, y_o)$.
 	
-c. 
+Misalnya dapat berbentuk
+
+	// Create fitness function
+	function fitness() {
+		var p = arguments[0];
+		
+		var x, y, g;
+		[x, y, g] = getValues(p);
+		
+		// var dr = ..
+		
+		var val = 1 / (1 + dr);
+		return val;
+	}
+	
+atau lainnya dengan menggunakan template fungsi di atas.
+	
+c. Gunakan fungsi fitnes tersebut untuk menyeleksi kromosom dari populasi.
+
+
 
 ## Soal 5
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
