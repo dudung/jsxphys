@@ -205,7 +205,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 
 	d. Ungkapkan jawaban Anda mengenai kaitan antara arsitektur yang diperlukan
 	untuk memisahkan dengan baik data-data dalam Tabel REF tab:data-1 -
-	REF tab:data-3 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan
+	 REF tab:data-3 dengan bentuk sebaran datanya. Boleh juga dalam penjelasan
 	secara visualnya.
 
 ## Soal 4
