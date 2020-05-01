@@ -24,7 +24,7 @@ Mata kuliah Fisika komputasi berkode FI3201 untuk kelas 01 akan melangsungkan U2
 # Soal
 Terdapat lima buah soal yang akan dikerjakan secara per kolompok dan pemberian soal diberikan berangsur-angsur.
 
-## Soal 1
+## Soal 1 | Sistem bandul dengan sistem koordinat kartesian
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	Terdapat sistem bandul yang terdiri dari titik pusat koordinat $O(0, 0)$,
@@ -73,7 +73,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	bagaimanakah bentuk Persamaan \eqref{eqn:nlode-x} dan \eqref{eqn:nlode-y}?
 	Jelaskan maksud suku-sukunya.
 
-## Soal 2
+## Soal 2 | Bandul dengan sistem koordinat polar
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	Dengan menggunakan sistem bandul dalam soal sebelumnya dapat pula dipilih
@@ -106,7 +106,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	dari keduanya untuk sudut kecil dan sudut besar. Program harus siap untuk
 	dijalankan.
 
-## Soal 3
+## Soal 3 | Jaringan saraf tiruan dengan aplikasi TensorFlow
 Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
 
 	Gunakan aplikasi pada https://playground.tensorflow.org/ untuk membahas
@@ -209,7 +209,7 @@ Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729
 	secara visualnya. Mengapa perlu dibatasi arsitektur JST yang paling
 	sederhana? Jelaskan dengan singkat.
 
-## Soal 4
+## Soal 4 | Algoritma genetik sederhana dengan JS
 Bila menggunakan Google Chrome, tekan CTRL+SHIFT+J untuk membuka JavaScript (JS) console. Selanjutnya perhatikan kode berikut
 
 	<!doctype html>
@@ -307,7 +307,7 @@ b. Buatlah suatu fungsi fitness yang dalam bentuk
 	f(x, y) = \frac{1}{1 + \sqrt{(x - x_o)^2 + (y - y_o)^2}}
 	\end{equation}
 	
-	yang akan bernilai maksimum bila posisi kromosom berada pada $(x_o, y_o)$.
+	yang akan bernilai maksimum bila posisi kromosom berada pada $(x_o, y_o)$. Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan persamaan tersebut bila diperlukan.
 	
 Misalnya dapat berbentuk
 
@@ -330,7 +330,9 @@ c. Gunakan fungsi fitnes tersebut untuk menyeleksi kromosom dari populasi.
 
 d. Sampaikan dua kromosom dengan nilai tertinggi yang mungkin diperoleh setelah beberapa kali iterasi. Sajikan kode dan hasil tempilan koromosomnya diikuti dengan nilai fitnessnya.
 
-## Soal 5
-Gunakan [editor](https://rawcdn.githack.com/dudung/jsxphys/4220729be109df8b94729ca4605562caa6d7596b/0.0.2/editor.html) untuk melihat tampilan soal sebenarnya bila diperlukan.
+## Soal 5 | Research based learning
+Buatlah suatu kajian sederhana yang mengintegrasikan konsep-konsep fisika komputasi yang telah dipelajari. Tidak perlu sampai perhitungan akhir akan tetapi dapat menceritakan apa tujuannya, bagaimana perumusan masalahnya, usulan metode yang digunakan, perkiraan hasil yang diperoleh dengan analisasnya, dan beberapa referensi terkait.
 
-	..
+
+# Format
+Ujian dikumpulkan dengan menggunakan format Markdown markup language.
